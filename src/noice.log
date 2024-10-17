@@ -1,0 +1,58 @@
+{ "msg_showcmd", "sl:1", "tick:652", false, { { 0, ":" } } }
+{ "cmdline_show", "sl:1", "tick:653", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:656", "mode:c", { { 0, "N" } } }
+{ "cmdline_show", "sl:1", "tick:658", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:660", "mode:c", { { 0, "NoiceDebug" } } }
+{ "cmdline_show", "sl:1", "tick:662", "mode:c", { { 0, "NoiceDebug " } } }
+{ "cmdline_show", "sl:1", "tick:664", "mode:c", { { 0, "NoiceDebug e" } } }
+{ "cmdline_show", "sl:1", "tick:666", "mode:c", { { 0, "NoiceDebug ex" } } }
+{ "cmdline_show", "sl:1", "tick:668", "mode:c", { { 0, "NoiceDebug exa" } } }
+{ "cmdline_show", "sl:1", "tick:670", "mode:c", { { 0, "NoiceDebug exam" } } }
+{ "cmdline_show", "sl:1", "tick:672", "mode:c", { { 0, "NoiceDebug examp" } } }
+{ "cmdline_show", "sl:1", "tick:674", "mode:c", { { 0, "NoiceDebug exampl" } } }
+{ "cmdline_show", "sl:1", "tick:676", "mode:c", { { 0, "NoiceDebug example" } } }
+{ "cmdline_hide", "sl:1", "tick:678", false, 1 }
+{ "msg_show", "sl:1", "tick:679", false, "emsg" }
+{ "msg_showcmd", "sl:1", "tick:681", false, { { 0, ":" } } }
+{ "cmdline_show", "sl:1", "tick:682", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:685", "mode:c", { { 0, "NoiceDebug example" } } }
+{ "cmdline_show", "sl:1", "tick:687", "mode:c", { { 0, "NoiceDebug exampl" } } }
+{ "cmdline_show", "sl:1", "tick:689", "mode:c", { { 0, "NoiceDebug examp" } } }
+{ "cmdline_show", "sl:1", "tick:691", "mode:c", { { 0, "NoiceDebug exam" } } }
+{ "cmdline_show", "sl:1", "tick:693", "mode:c", { { 0, "NoiceDebug exa" } } }
+{ "cmdline_show", "sl:1", "tick:695", "mode:c", { { 0, "NoiceDebug ex" } } }
+{ "cmdline_show", "sl:1", "tick:697", "mode:c", { { 0, "NoiceDebug e" } } }
+{ "cmdline_show", "sl:1", "tick:699", "mode:c", { { 0, "NoiceDebug " } } }
+{ "cmdline_show", "sl:1", "tick:701", "mode:c", { { 0, "NoiceDebug '" } } }
+{ "cmdline_show", "sl:1", "tick:703", "mode:c", { { 0, "NoiceDebug 'e" } } }
+{ "cmdline_show", "sl:1", "tick:705", "mode:c", { { 0, "NoiceDebug 'er" } } }
+{ "cmdline_show", "sl:1", "tick:707", "mode:c", { { 0, "NoiceDebug 'err" } } }
+{ "cmdline_show", "sl:1", "tick:709", "mode:c", { { 0, "NoiceDebug 'er" } } }
+{ "cmdline_show", "sl:1", "tick:711", "mode:c", { { 0, "NoiceDebug 'err" } } }
+{ "cmdline_show", "sl:1", "tick:713", "mode:c", { { 0, "NoiceDebug 'errr" } } }
+{ "cmdline_show", "sl:1", "tick:715", "mode:c", { { 0, "NoiceDebug 'errro" } } }
+{ "cmdline_show", "sl:1", "tick:717", "mode:c", { { 0, "NoiceDebug 'errror" } } }
+{ "cmdline_show", "sl:1", "tick:719", "mode:c", { { 0, "NoiceDebug 'errror " } } }
+{ "cmdline_show", "sl:1", "tick:721", "mode:c", { { 0, "NoiceDebug 'errror g" } } }
+{ "cmdline_show", "sl:1", "tick:723", "mode:c", { { 0, "NoiceDebug 'errror ge" } } }
+{ "cmdline_show", "sl:1", "tick:725", "mode:c", { { 0, "NoiceDebug 'errror gel" } } }
+{ "cmdline_show", "sl:1", "tick:727", "mode:c", { { 0, "NoiceDebug 'errror geld" } } }
+{ "cmdline_show", "sl:1", "tick:729", "mode:c", { { 0, "NoiceDebug 'errror geldi" } } }
+{ "cmdline_show", "sl:1", "tick:731", "mode:c", { { 0, "NoiceDebug 'errror geldi\"" } } }
+{ "cmdline_show", "sl:1", "tick:733", "mode:c", { { 0, "NoiceDebug 'errror geldi" } } }
+{ "cmdline_show", "sl:1", "tick:735", "mode:c", { { 0, "NoiceDebug 'errror geldi'" } } }
+{ "cmdline_hide", "sl:1", "tick:737", false, 1 }
+{ "msg_show", "sl:1", "tick:738", false, "emsg" }
+{ "msg_showcmd", "sl:1", "tick:740", false, { { 0, ":" } } }
+{ "cmdline_show", "sl:1", "tick:741", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:744", "mode:c", { { 0, "Q" } } }
+{ "cmdline_hide", "sl:1", "tick:746", false, 1 }
+{ "msg_show", "sl:1", "tick:747", false, "emsg" }
+{ "msg_showcmd", "sl:1", "tick:749", false, { { 0, ":" } } }
+{ "cmdline_show", "sl:1", "tick:750", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:753", "mode:c", { { 0, "q" } } }
+{ "cmdline_hide", "sl:1", "tick:755", false, 1 }
+{ "msg_showcmd", "sl:1", "tick:756", false, { { 0, ":" } } }
+{ "cmdline_show", "sl:1", "tick:757", "mode:c", { { 0, "" } } }
+{ "cmdline_show", "sl:1", "tick:760", "mode:c", { { 0, "q" } } }
+{ "cmdline_hide", "sl:1", "tick:762", false, 1 }
